@@ -1,3 +1,10 @@
+<!--
+ * @Author: liyingda
+ * @Date: 2024-04-09 19:43:12
+ * @LastEditors: liyingda
+ * @LastEditTime: 2024-04-10 10:59:24
+ * @Description: 
+-->
 <template>
   <button class="demo-button">
     <slot />
@@ -6,7 +13,7 @@
 
 <script>
 export default {
-  name: 'demo-button',
+  name: 'DemoButton',
 
   props: {
     color: String,

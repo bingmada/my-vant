@@ -2,13 +2,17 @@
  * @Author: liyingda
  * @Date: 2024-04-10 14:17:43
  * @LastEditors: liyingda
- * @LastEditTime: 2024-04-10 14:28:20
+ * @LastEditTime: 2024-04-10 14:33:08
  * @Description:
 -->
 
 ### [v1.0.1](https://github.com/bingmada/my-vant/compare/...v1.0.1)
 
 `2024-04-10`
+
+**Bug Fixes**
+
+- custom: 修改问题 [474683](https://github.com/bingmada/my-vant/commit/474683b68afc3e2ff62f58730c92a88755694f8b)
 
 **Feature**
 

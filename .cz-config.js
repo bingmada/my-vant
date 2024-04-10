@@ -2,8 +2,8 @@
  * @Author: liyingda
  * @Date: 2024-04-10 10:17:54
  * @LastEditors: liyingda
- * @LastEditTime: 2024-04-10 10:18:04
- * @Description: 
+ * @LastEditTime: 2024-04-10 14:40:36
+ * @Description:
  */
 'use strict';
 
@@ -54,7 +54,8 @@ module.exports = {
     footer: '列举出所有变更的 ISSUES CLOSED（可选）。 例如: #31, #34：\n',
     confirmCommit: '确认提交？',
   },
-  scopes: [],
   allowCustomScopes: true,
-  skipQuestions: ['body', 'breaking', 'footer'],
+  allowBreakingChanges: ['feat', 'fix'], // 当提交类型为feat、fix时才有破坏性修改选项
+  // skipQuestions: ['body', 'breaking', 'footer'],
+  subjectLimit: 72,
 };

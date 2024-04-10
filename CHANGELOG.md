@@ -1,4 +1,4 @@
-### [v1.0.0](https://github.com/bingmada/my-vant/compare/...v1.0.0)
+### [v1.0.1](https://github.com/bingmada/my-vant/compare/...v1.0.1)
 
 `2024-04-10`
 

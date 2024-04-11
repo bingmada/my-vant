@@ -2,7 +2,7 @@
  * @Author: liyingda
  * @Date: 2024-04-10 10:17:54
  * @LastEditors: liyingda
- * @LastEditTime: 2024-04-10 15:06:40
+ * @LastEditTime: 2024-04-11 10:18:34
  * @Description:
  */
 'use strict';
@@ -11,7 +11,7 @@ module.exports = {
   types: [
     {
       value: 'feat',
-      name: '✨  feat:     新功能/特性',
+      name: ':sparkles:  feat:     新功能/特性',
     },
     {
       value: 'fix',
@@ -42,17 +42,11 @@ module.exports = {
       name: '⏪  revert:   撤销 commit 提交',
     },
   ],
-  scopes: [
-    { name: 'custom' },
-    { name: '模块2' },
-    { name: '模块3' },
-    { name: '模块4' },
-  ],
   // 交互提示信息
   messages: {
     type: '确保本次提交遵循：前端代码提交规范！\n选择你要提交的类型：',
     scope: '选择一个scope (可选):',
-    customScope: '请输入自定义的 scope：\n',
+    customScope: '请输入自定义的 scope：',
     subject: '填写简短精炼的变更描述：\n',
     body: '填写更加详细的变更描述（可选）。使用 "|" 换行：\n',
     breaking: '列举非兼容性重大的变更（可选）：\n',

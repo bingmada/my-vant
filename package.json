@@ -21,7 +21,7 @@
     "test:watch": "vant-cli test --watch",
     "test:coverage": "open test/coverage/index.html",
     "commit": "git add . && git cz",
-    "changelog": "vant-cli changelog && copyfiles "
+    "changelog": "vant-cli changelog"
   },
   "author": "",
   "nano-staged": {

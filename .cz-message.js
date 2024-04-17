@@ -1,10 +1,3 @@
-/*
- * @Author: liyingda
- * @Date: 2024-04-11 11:03:31
- * @LastEditors: liyingda
- * @LastEditTime: 2024-04-11 11:06:22
- * @Description:
- */
 module.exports = {
   questions: [
     {
@@ -14,11 +7,11 @@ module.exports = {
         '确保本次提交遵循：前端代码提交规范！\n请选择你要提交的更改类型:',
       choices: [
         { value: ':sparkles: feat: ', name: '✨ feat: ------- 新增功能' },
-        { value: ':bug: fix: ', name: '🐛 fix: -------- 修复 BUG' },
-        { value: ':memo: docs: ', name: '📝 docs: ------- 文档变更' },
+        { value: ':bug: fix: ', name: '  fix: -------- 修复 BUG' },
+        { value: ':memo: docs: ', name: '  docs: ------- 文档变更' },
         {
           value: ':lipstick: style: ',
-          name: '💄 style: ------ 代码格式调整，不影响代码整体运行',
+          name: '  style: ------ 代码格式调整，不影响代码整体运行',
         },
         {
           value: ':recycle: refactor: ',
@@ -27,23 +20,23 @@ module.exports = {
         { value: ':zap: perf:', name: '⚡️ perf:  ------ 性能优化' },
         {
           value: ':test_tube: test: ',
-          name: '🧪 test:  ------ 新增、更新测试内容',
+          name: '  test:  ------ 新增、更新测试内容',
         },
         {
           value: ':truck: merge: ',
-          name: '🚚 merge: ------ 合并一个分支, 解决冲突分支',
+          name: '  merge: ------ 合并一个分支, 解决冲突分支',
         },
         {
           value: ':wrench: build: ',
-          name: '🔧 build: ------ 变更项目构建或外部依赖（例如 scopes: webpack、gulp、npm 等）',
+          name: '  build: ------ 变更项目构建或外部依赖（例如 scopes: webpack、gulp、npm 等）',
         },
         {
           value: ':construction_worker: ci: ',
-          name: '👷 ci: --------- 更改持续集成软件的配置文件和 package 中的 scripts 命令，例如 scopes: Travis, Circle 等',
+          name: '  ci: --------- 更改持续集成软件的配置文件和 package 中的 scripts 命令，例如 scopes: Travis, Circle 等',
         },
         {
           value: ':card_file_box: chore: ',
-          name: '🗃️  chore: ------ 变更构建流程或辅助工具',
+          name: ' ️  chore: ------ 变更构建流程或辅助工具',
         },
         { value: ':rewind: revert: ', name: '⏪ revert: ----- 撤销之前提交' },
       ],

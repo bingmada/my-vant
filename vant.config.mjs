@@ -1,3 +1,10 @@
+/*
+ * @Author: liyingda
+ * @Date: 2024-04-17 16:46:04
+ * @LastEditors: liyingda
+ * @LastEditTime: 2024-04-17 20:14:56
+ * @Description: 
+ */
 export default {
   name: 'my-vant',
   build: {
@@ -21,6 +28,10 @@ export default {
           },
           {
             path: 'quickstart',
+            title: '快速上手',
+          },
+          {
+            path: 'changelog',
             title: '快速上手',
           },
         ],

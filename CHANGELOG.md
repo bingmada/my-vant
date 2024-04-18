@@ -1,3 +1,17 @@
+## <small>1.0.1 (2024-04-17)</small>
+
+- :sparkles: feat: : 添加版本日志 ([ccaaa1e](https://github.com/bingmada/my-vant/commit/ccaaa1e))
+- :sparkles: feat: (校验): 新增提交校验 ([9ef42a7](https://github.com/bingmada/my-vant/commit/9ef42a7))
+- :sparkles: feat: (qwer): werwqr ([a6bd060](https://github.com/bingmada/my-vant/commit/a6bd060))
+- feat(模块3): 234 ([9feb867](https://github.com/bingmada/my-vant/commit/9feb867))
+- feat(custom): 测试提升机 ([0c8e39e](https://github.com/bingmada/my-vant/commit/0c8e39e))
+- feat(custom): 搭建框架 ([453fc3a](https://github.com/bingmada/my-vant/commit/453fc3a))
+- feat(custom): asdf ([75d2e87](https://github.com/bingmada/my-vant/commit/75d2e87))
+- fix(custom): 123 ([db20cca](https://github.com/bingmada/my-vant/commit/db20cca)), closes [#123](https://github.com/bingmada/my-vant/issues/123)
+- fix(custom): 修改问题 ([474683b](https://github.com/bingmada/my-vant/commit/474683b))
+- chore(custom): 更新了更新日志说明 ([ab687d5](https://github.com/bingmada/my-vant/commit/ab687d5))
+- chore(custom): 添加提交校验 ([7bb9247](https://github.com/bingmada/my-vant/commit/7bb9247))
+
 ## 1.0.0 (2024-04-17)
 
 - :sparkles: feat: (校验): 新增提交校验 ([9ef42a7](https://github.com/bingmada/my-vant/commit/9ef42a7))

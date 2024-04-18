@@ -2,11 +2,13 @@
  * @Author: liyingda
  * @Date: 2024-04-17 20:15:20
  * @LastEditors: liyingda
- * @LastEditTime: 2024-04-17 20:15:20
+ * @LastEditTime: 2024-04-17 20:26:16
  * @Description:
 -->
 
-## 1.0.0 (2024-04-17)
+# 更新日志
+
+### 1.0.0 (2024-04-17)
 
 - :sparkles: feat: (校验): 新增提交校验 ([9ef42a7](https://github.com/bingmada/my-vant/commit/9ef42a7))
 - :sparkles: feat: (qwer): werwqr ([a6bd060](https://github.com/bingmada/my-vant/commit/a6bd060))

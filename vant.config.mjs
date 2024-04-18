@@ -32,7 +32,7 @@ export default {
           },
           {
             path: 'changelog',
-            title: '快速上手',
+            title: '更新日志',
           },
         ],
       },
